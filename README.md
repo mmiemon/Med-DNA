@@ -22,7 +22,7 @@ B.Linux:
 Cromosome file:
 
 You can download Chromosome files from following link. 
-https://mail.google.com/mail/u/0/#search/shams.bayzid%40gmail.com/162d9d8053f8ee1a?projector=1
+https://drive.google.com/file/d/16UBnT6lebyiucyLA9PqmWKh0yHDM2NJ2/view?ts=5ad77f4e
 
 About Sofrware:
 
