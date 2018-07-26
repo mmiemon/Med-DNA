@@ -19,6 +19,10 @@ B.Linux:
        sudo apt install libgdcm-tools
     3. Then you can run the software by double clicking the "software.jar" file.
 
+Cromosome file:
+
+You can download Chromosome files from following link. 
+https://mail.google.com/mail/u/0/#search/shams.bayzid%40gmail.com/162d9d8053f8ee1a?projector=1
 
 About Sofrware:
 
