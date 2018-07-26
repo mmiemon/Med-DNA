@@ -27,3 +27,7 @@ left. There are two options for retrieving a stored file - user can select file(
 to view; the software reconstructs original file(s) and opens with default viewer in system, or
 save a file to any location of system. Finally user can remove one or multiple files, then the files
 will be removed from displayed filelist too.
+
+sudo apt-get update
+sudo apt-get install python-gdcm
+sudo apt install libgdcm-tools
