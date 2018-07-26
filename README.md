@@ -8,14 +8,16 @@ A.Windows:
     2. If you dont have any DICOM viewer and GDCM installed on your pc, you need to install them first.
     You can do it just by double clicking "installer.bat" file. 
     
-    3. Then you can run the software by double
-    clicking the "software.jar" file.
+    3. Then you can run the software by double clicking the "software.jar" file.
     
-B.Linux
+B.Linux:
   
-    sudo apt-get update
-    sudo apt-get install python-gdcm
-    sudo apt install libgdcm-tools
+    1. Download the Linux_Mac directory. 
+    2. Run the following commands to install GDCM. 
+       sudo apt-get update
+       sudo apt-get install python-gdcm
+       sudo apt install libgdcm-tools
+    3. Then you can run the software by double clicking the "software.jar" file.
 
 
 About Sofrware:
