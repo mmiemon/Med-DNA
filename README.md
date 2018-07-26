@@ -1,13 +1,11 @@
 # Med-DNA
-Installation:
+Installation: 
 A.Windows:
-
   1.Download the windows directory.
   2.If you dont have any DICOM viewer and GDCM installed on your pc, you need to install them first.
     You can do it just by double clicking "installer.bat" file. 
   3.Then you can run the software by double
     clicking the "software.jar" file.
-    
 B.Linux
 
 About Sofrware:
