@@ -1,14 +1,21 @@
 # Med-DNA
 Installation: 
+
 A.Windows:
+
   1.Download the windows directory.
+  
   2.If you dont have any DICOM viewer and GDCM installed on your pc, you need to install them first.
     You can do it just by double clicking "installer.bat" file. 
+    
   3.Then you can run the software by double
     clicking the "software.jar" file.
+    
 B.Linux
 
+
 About Sofrware:
+
 This software takes in the whole genome sequence of a person, lengths of all chromosomes, start
 and end positions of coding regions as inputs before we can use it for archiving DICOM and
 other files.The whole genome sequence has to be uploaded to the software as a folder which has seperate
