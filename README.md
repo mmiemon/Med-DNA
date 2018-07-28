@@ -1,7 +1,7 @@
 # Med-DNA
 Installation: 
 
-A.Windows:
+A.Windows
 
     1. Download the windows directory.
   
@@ -10,7 +10,7 @@ A.Windows:
     
     3. Then you can run the software by double clicking the "software.jar" file.
     
-B.Linux:
+B.Linux
   
     1. Download the Linux_Mac directory. 
     2. Run the following commands to install GDCM. 
@@ -21,7 +21,7 @@ B.Linux:
        chmod +x software.jar
        Then you can run the software by double clicking the "software.jar" file.
  
- C.MAC: 
+ C.MAC
  
      1.You need to have brew installed on your mac. 
      2.The run the following command. 
