@@ -17,7 +17,20 @@ B.Linux:
        sudo apt-get update
        sudo apt-get install python-gdcm
        sudo apt install libgdcm-tools
-    3. Then you can run the software by double clicking the "software.jar" file.
+    3. Give executive permission to the file "software.jar".
+       chmod +x software.jar
+       Then you can run the software by double clicking the "software.jar" file.
+ 
+ C.MAC: 
+ 
+     1.You need to have brew installed on your mac. 
+     2.The run the following command. 
+       brew update
+       brew install python-gdcm
+       brew install libgdcm-tools
+     3.Then you can run the software by double clicking the "software.jar" file.
+       
+  
 
 Cromosome file:
 
